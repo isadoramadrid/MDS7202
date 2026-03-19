@@ -11,18 +11,7 @@ Este repositorio contiene los laboratorios y entregas del curso, organizados por
 | Isadora Madrid | [@isadoramadrid](https://github.com/isadoramadrid) |
 
 ## Estructura del repositorio
-
-.
-└── .github
-|    └── ci.yml
-├── labs/
-│   └── lab_1/
-│       └── ...
-└──.gitignore
-├── pyproject.toml
-├── .pre-commit-config.yaml
-└── README.md
-└── uv.lock
+![conflicto](captura4.png)
 
 
 ## Configuración del entorno
