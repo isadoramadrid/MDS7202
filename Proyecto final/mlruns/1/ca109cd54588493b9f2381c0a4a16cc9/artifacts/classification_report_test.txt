@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+        Alta       0.70      0.64      0.67        70
+        Baja       0.90      0.88      0.89       145
+     Critica       0.59      0.59      0.59        27
+       Media       0.81      0.85      0.83       158
+
+    accuracy                           0.81       400
+   macro avg       0.75      0.74      0.75       400
+weighted avg       0.81      0.81      0.81       400
